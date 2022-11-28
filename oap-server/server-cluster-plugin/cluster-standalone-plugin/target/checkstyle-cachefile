@@ -1,0 +1,5 @@
+#Mon Nov 28 17:34:17 CST 2022
+configuration*?=A14EE325F45DEF63CF05BA121D985478644D9ABF
+/home/sk117/final-project/copy2/apache-skywalking-apm-9.2.0/oap-server/server-cluster-plugin/cluster-standalone-plugin/src/main/java/org/apache/skywalking/oap/server/cluster/plugin/standalone/ClusterModuleStandaloneProvider.java=1661850014000
+/home/sk117/final-project/copy2/apache-skywalking-apm-9.2.0/oap-server/server-cluster-plugin/cluster-standalone-plugin/src/main/java/org/apache/skywalking/oap/server/cluster/plugin/standalone/StandaloneManager.java=1661850014000
+/home/sk117/final-project/copy2/apache-skywalking-apm-9.2.0/oap-server/server-cluster-plugin/cluster-standalone-plugin/src/test/java/org/apache/skywalking/oap/server/cluster/plugin/standalone/StandaloneManagerTest.java=1661850014000
